@@ -17,10 +17,7 @@ La finalité serait qu'un utilisateur pourra sauvegarder un film qu'il souhaite 
 
 ## Me contacter
 
-N'hésitez pas à me contacter ou à me rejoindre sur mes réseaux professionnels, vous les trouverez sur mon portfolio :
-[Mon portfolio](https://guillaumelepoetre.fr)
-
-![Logo Guillaume Lepoetre, développeur web et web-mobile](/public/img/logo-test.png 'Logo')
+N'hésitez pas à me contacter ou à me rejoindre sur mes réseaux professionnels, vous les trouverez [ICI](https://formationsweb-glepoetre.fr)
 
 ## Project setup
 
